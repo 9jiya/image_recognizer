@@ -1,0 +1,16 @@
+body{
+    background: palegreen;
+    color: white;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.a,#object,#accuracy{
+    color: deeppink;
+}
